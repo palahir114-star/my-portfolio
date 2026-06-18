@@ -15,7 +15,7 @@ const Projects = () => {
     {
       title: "Protfolio",
       desc: "Personal portfolio project hosted on GitHub.",
-      link: "https://github.com/palahir114-star/protfolio",
+      
     },
   ];
 
