@@ -15,7 +15,7 @@ const Hero = () => {
           3rd Year, 5th Semester.
         </p>
 
-        <button>Contact Me</button>
+        
       </div>
     </section>
   );
